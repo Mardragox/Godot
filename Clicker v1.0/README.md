@@ -1,5 +1,5 @@
 # Wersja pierwsza Clickera
 
 **dodano:**
-⋅⋅* Guzik do klikania
-⋅⋅* upgrade kilknięć na raz
+1. Guzik do klikania
+2. upgrade kilknięć na raz
