@@ -1,4 +1,4 @@
-# Wersja pierwsza Clickera
+# Wersja pierwsza Clickera v1.0 *29.08.2024*
 
 **dodano:**
 1. Guzik do klikania
